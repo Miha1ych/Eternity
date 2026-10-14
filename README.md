@@ -29,7 +29,10 @@ Eternity не изобретает обход блокировок заново.
 
 ## Скриншоты
 
-> Добавьте сюда скриншоты своих тем (`docs/bear.png`, `docs/eyes.png`, ...).
+<img width="1563" height="1029" alt="image" src="https://github.com/user-attachments/assets/cf28e696-3ec2-4d6a-82bb-c9f0e2e734bd" />
+<img width="2011" height="1225" alt="image" src="https://github.com/user-attachments/assets/23a74eba-5e35-401e-8b06-fa6f84badbc0" />
+
+
 
 ## Требования
 
@@ -124,7 +127,4 @@ ipconfig /flushdns
 - [Flowseal/tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy)
 - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
 - [Cloudflare WARP](https://one.one.one.one/)
-
-## Лицензия
-
-Добавьте файл `LICENSE` (например MIT) под своё усмотрение.
+Батник использует весь софт именно этих ребят, обязательно перейдите и поставьте звездочку! 
