@@ -4,7 +4,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1-5391FE?logo=powershell&logoColor=white)
-![Version](https://img.shields.io/badge/version-1.0.0-ffa6cc)
+![Version](https://img.shields.io/badge/version-1.0.1-ffa6cc)
 
 Eternity не изобретает обход блокировок заново. Он берёт проверенные open-source инструменты (GoodbyeDPI, zapret, TG WS Proxy, Cloudflare WARP) и собирает их под одним интерфейсом: статус всех модулей на экране, включение и выключение одной клавишей, автоподбор рабочих настроек и кнопка «вернуть всё как было».
 
